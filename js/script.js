@@ -1,4 +1,4 @@
-//se pide el ingreso de un numero al usuario, se decrementa el numero y se muestran los pares y los impares
+//se pide el ingreso de un numero al usuario por prompt, se decrementa el numero y se muestran los pares y los impares por consola
 
 let numeroIngresado = Number(prompt("Ingrese un numero:"))
 
